@@ -1,0 +1,22 @@
+{
+  "name": "node_edm",
+  "version": "1.0.0",
+  "description": "Creating electronic dance music using Vanilla JS and Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankk98/node_edm.git"
+  },
+  "author": "Mayank Khandelwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankk98/node_edm/issues"
+  },
+  "homepage": "https://github.com/mayankk98/node_edm#readme",
+  "dependencies": {
+    "scribbletune": "^1.0.0-alpha.4"
+  }
+}
